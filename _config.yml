@@ -22,9 +22,9 @@ author: RudeOps
 navbar-links:
   C'est quoi RudeOps ?: "about"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Les livres sur le devops: #
+    - Les livres sur l'IT en général: #
+  Inscrivez-vous: "https://rudeops.com"
 
 ################
 # --- Logo --- #
