@@ -9,8 +9,9 @@ RudeOps.com c'est la newsletter française dédiée à la tech, à l'open source
 - C'est gratuit bien sûr, sans pub d'aucune sorte, et si ça n'est pas déjà fait vous pouvez vous inscrire [ICI](https://rudeops.com). 
 - RudeOps paraît tous les 15 jours, environ, des fois c'est plus et des fois c'est moins.
 - La newsletter est gérée sur [Mailerlite](https://www.mailerlite.com/) et les archives sur Github Pages.
+- Les illustrations sont le fruit de [Vincent](https://www.bedetheque.com/auteur-11701-BD-Vincent.html) que nous remercions chaleureusement (achetez ses albums) !  
 
-### Quelques stats en MAI 2025.
+### Quelques stats en MAI 2024.
 
 
 ![](https://archives.rudeops.com/assets/img/stats-rudeops.PNG)
@@ -24,4 +25,4 @@ RudeOps.com c'est la newsletter française dédiée à la tech, à l'open source
 **- 05/10/2023 :** On se crée une page sur [buymeacoffee](https://buymeacoffee.com/rudeops), c'est un échec, vous êtes trois lecteurs à nous offrir un café, dont mon père.  
 **- 01/11/2023 :** Microsoft nous fait une offre de rachat pour 2 millions d'euros, nous refusons.  
 **- 15/12/2023 :** On ne le sait pas encore, mais ça sera le dernière newsletter avant longtemps car [son papa](https://www.linkedin.com/in/cyrilbeaufrere/) a pris un nouveau job bien prenant.  
-**- 13/05/2024 :** On ressort RudeOps de nos placards, le job du papa est toujours aussi prenant mais on s'organise différemment (en gros on divise le contenu par trois). On en profite aussi pour mettre nos archives sur Github.  
+**- 13/05/2024 :** On ressort RudeOps de nos placards, le job du papa est toujours aussi prenant mais on s'organise différemment (en gros on divise le contenu par trois). On en profite aussi pour mettre nos archives sur Github.  S
