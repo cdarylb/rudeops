@@ -20,7 +20,7 @@ author: RudeOps
 ###############################################
 
 navbar-links:
-  About RudeOps: "aboutme"
+  C'est quoi RudeOps ?: "about"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
