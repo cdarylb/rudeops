@@ -1,16 +1,15 @@
 ---
 layout: page
-title: About me
+title: Au sujet de RudeOps
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+RudeOps.com c'est la newsletter française dédiée à la tech, à l'open source et au devops.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- C'est gratuit bien sûr, sans pub d'aucune sorte, et si ça n'est pas déjà fait vous pouvez vous inscrire [ICI](https://rudeops.com). 
+- RudeOps paraît tous les 15 jours, environ, des fois c'est plus et des fois c'est moins.
 
-What else do you need?
+### Quelques stats
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+![](https://archives.rudeops.com/assets/img/stats-rudeops.PNG)
