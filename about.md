@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Au sujet de RudeOps
-subtitle: Why you'd want to go on a date with me
+subtitle: La newsletter que même Apple et Google nous envie.
 ---
 
 RudeOps.com c'est la newsletter française dédiée à la tech, à l'open source et au devops.
