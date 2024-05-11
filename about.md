@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Au sujet de RudeOps
-subtitle: La newsletter que même Apple et Google nous envie.
+subtitle: La newsletter que même Apple et Google nous envient.
 ---
 
 RudeOps.com c'est la newsletter française dédiée à la tech, à l'open source et au devops.
