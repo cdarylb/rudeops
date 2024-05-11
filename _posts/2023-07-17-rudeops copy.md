@@ -2,7 +2,7 @@
 layout: post
 title: Newsletter du 17 Juillet 2023
 subtitle: 37°2 le matin		
-thumbnail-img: /assets/img/illustrations/tranquille.png
+thumbnail-img: /assets/img/tranquille.png
 gh-repo: daattali/beautiful-jekyll
 tags: [devops, kubernetes, cybersec]
 comments: true
