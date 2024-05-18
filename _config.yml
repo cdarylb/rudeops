@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Les archives de RudeOps
+title: La newsletter RudeOps
 
 # Your name to show in the footer
 author: RudeOps
@@ -21,6 +21,7 @@ author: RudeOps
 
 navbar-links:
   C'est quoi RudeOps ?: "about"
+  Les archives: "/archives"
   Resources:
     - Les livres sur le devops: #
     - Les livres sur l'IT en général: #
@@ -40,7 +41,7 @@ round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+#title-img: "/assets/img/charlie rit.png"
 
 
 #####################################
@@ -127,7 +128,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "devops,gitops,tech,cyber,cybersecurity,k8s,kubernetes,CI,CD,finops,veille,newsletter"
 
 ######################################
 # --- Colours / background image --- #
@@ -139,10 +140,10 @@ page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
+navbar-col: "##FEFEFE"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
+footer-col: "##FEFEFE"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
@@ -264,6 +265,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
+paginate_path: "/archives/page:num/"
 
 kramdown:
   input: GFM
