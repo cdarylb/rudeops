@@ -76,3 +76,10 @@ Ce livre est un guide approfondi sur l’automatisation du cycle de vie des appl
 Ce livre est une bible qui nous permet de comprendre comment appliquer les principes d’Infrastructure as Code (IaC) dans le cadre de DevOps. On y aborde la gestion des infrastructures de manière automatisée, répétable, et traçable, tout en tirant parti des outils comme Terraform, Ansible, et CloudFormation (à quand une seconde édition avec OpenTofu ?). Kief Morris explore comment traiter l'infrastructure comme du code, en améliorant la rapidité, la qualité, et la flexibilité des déploiements. C'est un must pour tous les barbus qui veulent maîtriser l'art de l'IaC dans le cloud.
 
 ---
+
+![Lean Enterprise](/assets/img/lean.jpg "Lean Enterprise")
+
+**Lean Enterprise: How High Performance Organizations Innovate at Scale - Jez Humble, Joanne Molesky, Barry O'Reilly**
+
+Ce bouquin explore l'application des principes Lean (un des pilliers du DevOps) dans des entreprises de grande taille, donc pas à la COGIP, et en particulier dans le contexte des technos dites modernes. Lean Enterprise traite de la manière dont les entreprises peuvent innover plus rapidement et plus efficacement tout en minimisant le superflu. On se concentre sur la création d'une culture axée sur le collaboratif, l'amélioration continue, et l'expérimentation contrôlée pour la partie innovation. Il est particulièrement utile pour ceux qui travaillent dans des environnements à grande échelle et veulent combiner les méthodologies Lean avec DevOps pour favoriser une innovation rapide et pérenne.
+
