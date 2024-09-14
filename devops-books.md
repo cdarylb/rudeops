@@ -50,3 +50,14 @@ Accelerate s’appuie sur un tas de recherches et de retours d'expérience pour 
 **Site Reliability Engineering: How Google Runs Production Systems - Edited by Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy**
 
 Ce livre offre un bon aperçu des pratiques de Site Reliability Engineering (SRE), un framework développé chez Google pour gérer les systèmes en production. Le livre décrit les concepts clés tels que les budgets d’erreur, la gestion des incidents, et l’automatisation pour maintenir une disponibilité élevée tout en soutenant une cadence rapide de développement. Il nous semble essentiel pour ceux qui veulent comprendre comment une entreprise de la taille de Google gère l’échelle et la complexité des systèmes modernes.
+
+---
+
+![Continuous Delivery](/assets/img/cdelivery.jpg "Continuous Delivery")
+
+**Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation - Jez Humble, David Farley**
+
+Ce livre est un guide approfondi sur l’automatisation du cycle de vie des applications, de la phase de développement jusqu’à la mise en production. On y explore l'intégration continue, la livraison continue et les bonnes pratiques pour s'assurer que chaque modification de code puisse être déployée en toute sécurité et rapidement. C'est un peu une référence pour tous ceux qui veulent perfectionner leurs pipelines CI/CD et améliorer la qualité et la rapidité de leurs livraisons. Par contre c'est assez technique, il faut disposer d'un bon bagage comme on dit à la RH pour s'assurer d'en tirer tout le sel.
+
+---
+
