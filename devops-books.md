@@ -10,7 +10,7 @@ mathjax: true
 author: RudeOps
 ---
 
-![Alain lit](/assets/img/Alain2lit.png "Alain lit")
+![Alain lit](/assets/img/Alain2Lit.png "Alain lit")
 
 L'adoption de DevOps ne se limite pas à une suite d'outils ou à l'automatisation. Nous ce qu'on conseille, c'est d'adopter une approche holistique qui repose sur les cinq piliers fondamentaux, souvent résumés sous l'acronyme **CALMS** : Culture, Automation, Lean, Measurement et Sharing. Ces cinq éléments sont au cœur d'une transformation DevOps réussie. Mais pour aller plus loin, rien de mieux que de se plonger dans des ouvrages qui abordent ces concepts en profondeur, en donnant des perspectives sur la manière de les appliquer dans des environnements réels.
 
