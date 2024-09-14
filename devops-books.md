@@ -73,6 +73,6 @@ Ce livre est un guide approfondi sur l’automatisation du cycle de vie des appl
 
 **Infrastructure as Code: Managing Servers in the Cloud - Kief Morris**
 
-Ce livre est une ressource précieuse pour comprendre comment appliquer les principes d’Infrastructure as Code (IaC) dans le cadre de DevOps. On y aborde la gestion des infrastructures de manière automatisée, répétable, et traçable, en tirant parti des outils comme Terraform, Ansible, et CloudFormation (à quand une seconde édition avec OpenTofu ?). Kief Morris explore comment traiter l'infrastructure comme du code, en améliorant la rapidité, la qualité, et la flexibilité des déploiements. C'est un must pour tous les barbus qui veulent maîtriser l'art de l'IaC dans le cloud.
+Ce livre est une bible qui nous permet de comprendre comment appliquer les principes d’Infrastructure as Code (IaC) dans le cadre de DevOps. On y aborde la gestion des infrastructures de manière automatisée, répétable, et traçable, tout en tirant parti des outils comme Terraform, Ansible, et CloudFormation (à quand une seconde édition avec OpenTofu ?). Kief Morris explore comment traiter l'infrastructure comme du code, en améliorant la rapidité, la qualité, et la flexibilité des déploiements. C'est un must pour tous les barbus qui veulent maîtriser l'art de l'IaC dans le cloud.
 
 ---
