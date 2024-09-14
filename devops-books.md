@@ -25,7 +25,15 @@ On espère que ces lectures vous permettront de développer une vision systémiq
 
 **The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win - Gene Kim, Kevin Behr, and George Spafford**
 
-Notre préféré, avec beaucoup d'humour, sorte de fable moderne qui raconte l’histoire de Bill, un manager en crise dans une entreprise techno, confronté à des projets en retard et à des systèmes défaillants. Bill est chargé de sauver un projet critique, "Le Projet Phénix". Le livre met en lumière les concepts de DevOps, l'importance de l'automatisation, la culture de la collaboration entre les équipes, et l'amélioration continue. C’est un excellent point de départ pour comprendre les défis du DevOps dans un cadre narratif accessible et à portée de tous, plein d'humour, et dont beaucoup de situations vont certainement vous rappeler votre quotidien.
+Notre préféré, sorte de fable moderne qui raconte l’histoire de Bill, un manager en crise dans une entreprise techno, confronté à des projets en retard et à des systèmes défaillants. Bill est chargé de sauver un projet critique, "Le Projet Phénix". Le livre met en lumière les concepts de DevOps, l'importance de l'automatisation, la culture de la collaboration entre les équipes, et l'amélioration continue. C’est un excellent point de départ pour comprendre les défis du DevOps dans un cadre narratif accessible et à portée de tous, plein d'humour, et dont beaucoup de situations vont certainement vous rappeler votre quotidien.
+
+---
+
+![Livre The DevOps handbook](/assets/img/devops_handbook.jpg "The DevOps handbook")
+
+**The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations - Gene Kim, Jez Humble, Patrick Debois, and John Willis**
+
+Sans doute le guide le plus complet sur la mise en œuvre de pratiques DevOps dans des environnements réels et non fantasmés. Il couvre les principes fondamentaux du DevOps, y compris l'intégration continue, la livraison continue, et l'IaC. Les auteurs s’appuient sur des études de cas et des exemples concrets pour montrer comment ces pratiques permettent aux entreprises de livrer des applications plus rapidement et avec moins de bugs. C’est une lecture essentielle pour comprendre les aspects techniques et organisationnels du DevOps. Et puis, fierté française oblige, il y a notre Patrick Debois national qui y a contribué !
 
 ---
 
