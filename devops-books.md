@@ -61,3 +61,18 @@ Ce livre est un guide approfondi sur l’automatisation du cycle de vie des appl
 
 ---
 
+![The Unicorn Project](/assets/img/unicorn-project.jpg "The Unicorn Project")
+
+**The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data - Gene Kim**
+
+Écrit par Gene Kim, l'un des co-auteurs de The Phoenix Project dont on vous a parlé plus haut, ce livre adopte une perspective axée sur les moins éveillés de la portée : les devs. On y suit Maxine, une dev qui rejoint un projet complexe et bordélique, et qui décrit sa lutte pour rétablir l'efficacité et la productivité. The Unicorn Project explore les "cinq idéaux" : la fluidité du local au global, les retours rapides, l'amélioration continue, la sécurité psychologique, et la gestion des données. Ce livre est excellent pour comprendre comment les équipes de dev peuvent prospérer dans un environnement DevOps, et ça se lit comme un roman rempli d'anecdotes tirées de votre quotidien.
+
+---
+
+![Infrastructure as Code](/assets/img/IaC.jpg "Infrastructure as Code")
+
+**Infrastructure as Code: Managing Servers in the Cloud - Kief Morris**
+
+Ce livre est une ressource précieuse pour comprendre comment appliquer les principes d’Infrastructure as Code (IaC) dans le cadre de DevOps. On y aborde la gestion des infrastructures de manière automatisée, répétable, et traçable, en tirant parti des outils comme Terraform, Ansible, et CloudFormation (à quand une seconde édition avec OpenTofu ?). Kief Morris explore comment traiter l'infrastructure comme du code, en améliorant la rapidité, la qualité, et la flexibilité des déploiements. C'est un must pour tous les barbus qui veulent maîtriser l'art de l'IaC dans le cloud.
+
+---
