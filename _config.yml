@@ -23,7 +23,7 @@ navbar-links:
   C'est quoi RudeOps ?: "about"
   Les archives: "/archives"
   Resources:
-    - Les livres sur le devops: #
+    - Les livres sur le devops: "/devops-books"
     - Les livres sur l'IT en général: #
   ❤ Support: "https://buymeacoffee.com/rudeops"
 
