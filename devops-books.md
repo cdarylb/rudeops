@@ -37,3 +37,16 @@ Sans doute le guide le plus complet sur la mise en œuvre de pratiques DevOps da
 
 ---
 
+![Livre Accelerate](/assets/img/accelerate.jpg "Accelerate")
+
+**Accelerate The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations - Nicole Forsgren, Jez Humble, Gene Kim**
+
+Accelerate s’appuie sur un tas de recherches et de retours d'expérience pour identifier les pratiques clés qui permettent aux entreprises de réussir leur transformation DevOps. Le bouquin présente des concepts comme le "Lead Time", le "Mean Time to Recovery", et le déploiement fréquent comme des indicateurs essentiels de performance. L'ami Forsgren et ses potes montrent comment améliorer la productivité, la qualité du code et la sécurité, tout en maintenant un rythme de livraison rapide. C’est un incontournable pour ceux qui veulent baser leur approche DevOps sur des données concrètes.
+
+---
+
+![Livre SRE](/assets/img/Site-Reliability-Engineering.jfif "Site Reliability Engineering")
+
+**Site Reliability Engineering: How Google Runs Production Systems - Edited by Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy**
+
+Ce livre offre un aperçu des pratiques de Site Reliability Engineering (SRE), un cadre développé chez Google pour gérer les systèmes en production. L’ouvrage décrit les concepts clés tels que les budgets d’erreur, la gestion des incidents, et l’automatisation pour maintenir une disponibilité élevée tout en soutenant une cadence rapide de développement. Il est essentiel pour les professionnels DevOps qui veulent comprendre comment une entreprise de la taille de Google gère l’échelle et la complexité des systèmes modernes.
