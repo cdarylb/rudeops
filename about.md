@@ -13,7 +13,7 @@ RudeOps.com c'est la newsletter française dédiée à la tech, à l'open source
 
 ### Update
 
-**- 15/03/2023 :** Sortie de la [première newsletter](https://archives.rudeops.com/2023-03-15-rudeops/) !  
+**- 15/03/2023 :** Sortie de la [première newsletter](https://www.rudeops.com/2023-03-15-rudeops/) !  
 **- 02/04/2023 :** On fout les archives de la newsletter sur Medium.com en mode on est des punks.  
 **- 01/06/2023 :** Google nous fait une offre de rachat pour 1 million d'euros, nous refusons.  
 **- 29/09/2023 :** On se crée un podcast avec un premier guest de qualité (Damien Claisse, SRE chez Critéo, qui nous explique ce que c'est pour lui le devops). C'est un échec, vous êtes environ 12% à l'écouter sur les six premiers mois.  
